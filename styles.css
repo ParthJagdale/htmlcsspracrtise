@@ -1,0 +1,17 @@
+.navbar{
+    display: flex;
+    background-color: black;
+    padding:  10px;
+}
+
+.navbar a 
+{
+    color: white;
+    padding: 14px 20px;
+    text-decoration: none;
+}
+
+.navbar a:hover{
+    background-color: rgb(139, 139, 135);
+    color: black;
+}
